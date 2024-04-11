@@ -3,5 +3,5 @@
 </div>
 
 <div align="right">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnstjd0717)](https://solved.ac/wlgnstjd0717/" /> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnstjd0717" />
 </div>
