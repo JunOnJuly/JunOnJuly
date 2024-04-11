@@ -1,1 +1,7 @@
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunOnJuly&show_icons=true&theme=transparent" />
+</div>
+
+<div align="right">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnstjd0717)](https://solved.ac/wlgnstjd0717/" /> 
+</div>
